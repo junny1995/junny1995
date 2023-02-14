@@ -12,7 +12,7 @@ Front-end Developer
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReduxToolkit-764ABC?style=flat&logo=Redux&logoColor=white"/>
 
-  
+## 🏃🏻Activity <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junny1995&layout=compact)](https://github.com/junny1995/github-readme-stats)
 <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junny1995&show_icons=true&theme=radical)
