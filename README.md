@@ -6,7 +6,7 @@
 Front-end Developer 
 
 ## 🛠️Stack <br />
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReduxToolkit-764ABC?style=flat&logo=Redux&logoColor=white"/>
 
