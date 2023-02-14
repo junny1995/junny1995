@@ -2,8 +2,10 @@
 ### Hi there 👋
 
 <div align=center>
-💁🏻About Me
-Test
+
+  💁🏻About Me
+  Front-end Developer 
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junny1995&layout=compact)](https://github.com/junny1995/github-readme-stats)
 <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junny1995&show_icons=true&theme=radical)
