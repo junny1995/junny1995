@@ -2,7 +2,7 @@
 
 <div align=center>
 
-##💁🏻About Me <br/>
+## 💁🏻About Me <br/>
 Front-end Developer 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junny1995&layout=compact)](https://github.com/junny1995/github-readme-stats)
